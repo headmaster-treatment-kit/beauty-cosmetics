@@ -139,7 +139,7 @@ p {
     font-weight: normal;
     font-size: 17px;
     line-height: 28px;
-    color: #2d2d2d;
+    color: blue;
 }
 
 a {
@@ -246,7 +246,7 @@ button {
 
 .read_more {
     font-size: 16px;
-    background: #363636;
+    background:#1f1f1f;
     max-width: 204px;
     width: 100%;
     transition: ease-in all 0.5s;
@@ -433,7 +433,7 @@ button {
 /** banner section **/
 
 .full_bg {
-    background: url(../images/product.JPG);
+    background: url(../images/banner.jpg);
     height: 100vh;
     background-repeat: no-repeat;
     background-position: center;
@@ -852,15 +852,15 @@ button {
 }
 
 .nostrud h3 {
-    color: #333333;
-    font-size: 22px;
+    color: blue;
+    font-size: 30px;
     line-height: 30px;
     font-weight: bold;
 }
 
 .nostrud p {
     padding: 10px 0 40px 0;
-    color: #272727;
+    color: red;
 }
 
 .nostrud .read_more {
@@ -933,7 +933,7 @@ button {
 }
 
 .about .read_more:hover {
-    box-shadow: 0 0 16px 3px #635d5d38;
+    box-shadow: 0 0 16px 3px #252525;
 }
 
 
